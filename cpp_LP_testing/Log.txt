@@ -1,0 +1,64 @@
+2024-03-06.16:00:33:	message to be logged
+2024-03-06.16:00:33:	logg message 1 ...
+2024-03-06.16:00:33:	 Message is:logg message 2 ... Number is:10
+2024-03-06.16:22:21:	message to be logged
+2024-03-06.16:22:21:	logg message 1 ...
+2024-03-06.16:22:21:	 Message is:logg message 2 ... Number is:10
+2024-03-07.16:45:00:	message to be logged
+2024-03-07.16:45:00:	logg message 1 ...
+2024-03-07.16:45:00:	 Message is:logg message 2 ... Number is:10
+2024-03-07.17:37:51:	The weather is hot today! :p
+2024-03-07.17:37:51:	My new car is great! ;)
+2024-03-07.17:38:20:	Message:The weather is hot today! :p
+2024-03-07.17:38:20:	Message:My new car is great! ;)
+2024-03-07.17:38:53:	Message from Subject: The weather is hot today! :p
+2024-03-07.17:38:53:	Message from Subject: My new car is great! ;)
+2024-03-07.17:41:14:	Message from Subject: The weather is hot today! :p
+2024-03-07.17:41:14:	e are: 
+2024-03-07.17:41:14:	Message from Subject: My new car is great! ;)
+2024-03-07.17:41:14:	e are: 
+2024-03-07.17:41:27:	Message from Subject: The weather is hot today! :p
+2024-03-07.17:41:27:	re are: 
+2024-03-07.17:41:27:	Message from Subject: My new car is great! ;)
+2024-03-07.17:41:27:	re are: 
+2024-03-07.17:42:46:	i, I'm the Observer 
+2024-03-07.17:42:46:	 I'm the Observer 
+2024-03-07.17:42:46:	Message from Subject: The weather is hot today! :p
+2024-03-07.17:42:46:	Message from Subject: My new car is great! ;)
+2024-03-07.17:46:58:	i, I'm the Observer 
+2024-03-07.17:46:58:	 I'm the Observer 
+2024-03-07.17:46:58:	Message from Subject: The weather is hot today! :p
+2024-03-07.17:46:58:	Message from Subject: My new car is great! ;)
+2024-03-07.17:48:33:	i, I'm the Observer 
+2024-03-07.17:48:33:	 I'm the Observer 
+2024-03-07.17:48:33:	Message from Subject: The weather is hot today! :p
+2024-03-07.17:48:33:	Message from Subject: My new car is great! ;)
+2024-03-07.17:48:33:	bye, I was the Observer 
+2024-03-07.17:48:33:	odbye, I was the Observer 
+2024-03-07.17:49:46:	i, I'm the Observer 
+2024-03-07.17:49:46:	, I'm the Observer 
+2024-03-07.17:49:46:	Message from Subject: The weather is hot today! :p
+2024-03-07.17:49:46:	Message from Subject: My new car is great! ;)
+2024-03-07.17:49:46:	odbye, I was the Observer 
+2024-03-07.17:49:46:	oodbye, I was the Observer 
+2024-03-07.17:54:44:	i, I'm the Observer 
+2024-03-07.17:54:44:	, I'm the Observer 
+2024-03-07.17:54:44:	Message from Subject: The weather is hot today! :p
+2024-03-07.17:54:44:	Message from Subject: My new car is great! ;)
+2024-03-07.17:54:44:	odbye, I was the Observer 
+2024-03-07.17:54:44:	oodbye, I was the Observer 
+2024-03-07.18:00:28:	i, I'm the Observer 
+2024-03-07.18:00:28:	, I'm the Observer 
+2024-03-07.18:00:28:	Message from Subject: The weather is hot today! :p
+2024-03-07.18:00:28:	Message from Subject: My new car is great! ;)
+2024-03-07.18:00:28:	odbye, I was the Observer 
+2024-03-07.18:00:28:	oodbye, I was the Observer 
+2024-03-07.18:35:52:	i, I'm the Observer 
+2024-03-07.18:35:52:	, I'm the Observer 
+2024-03-07.18:35:52:	Message from Subject: The weather is hot today! :p
+2024-03-07.18:35:52:	Message from Subject: My new car is great! ;)
+2024-03-07.18:35:52:	odbye, I was the Observer 
+2024-03-07.18:35:52:	oodbye, I was the Observer 
+2024-03-07.18:35:52:	message to be logged
+2024-03-07.18:35:52:	logg message 1 ...
+2024-03-07.18:35:52:	 Message is:logg message 2 ... Number is:10
