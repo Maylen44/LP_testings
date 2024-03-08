@@ -62,3 +62,25 @@
 2024-03-07.18:35:52:	message to be logged
 2024-03-07.18:35:52:	logg message 1 ...
 2024-03-07.18:35:52:	 Message is:logg message 2 ... Number is:10
+2024-03-07.18:58:34:	i, I'm the Observer 
+2024-03-07.18:58:34:	, I'm the Observer 
+2024-03-07.18:58:34:	Message from Subject: The weather is hot today! :p
+2024-03-07.18:58:34:	Message from Subject: My new car is great! ;)
+2024-03-07.18:58:34:	odbye, I was the Observer 
+2024-03-07.18:58:34:	oodbye, I was the Observer 
+2024-03-07.18:58:34:	message to be logged
+2024-03-07.18:58:34:	logg message 1 ...
+2024-03-07.18:58:34:	 Message is:logg message 2 ... Number is:10
+
+2024-03-07.18:58:34:	Hello World
+2024-03-07.18:59:34:	i, I'm the Observer 
+2024-03-07.18:59:34:	, I'm the Observer 
+2024-03-07.18:59:34:	Message from Subject: The weather is hot today! :p
+2024-03-07.18:59:34:	Message from Subject: My new car is great! ;)
+2024-03-07.18:59:34:	odbye, I was the Observer 
+2024-03-07.18:59:34:	oodbye, I was the Observer 
+2024-03-07.18:59:34:	message to be logged
+2024-03-07.18:59:34:	logg message 1 ...
+2024-03-07.18:59:34:	 Message is:logg message 2 ... Number is:10
+
+2024-03-07.18:59:34:	Hello World

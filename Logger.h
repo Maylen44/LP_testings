@@ -7,6 +7,7 @@
 #include <string>
 
 #define LOGGER Logger::GetLogger()
+#define LOG *Logger::GetLogger()
 
 class Logger
 {
@@ -17,9 +18,8 @@ public:
     // kind of formating tool, but at the same time it is a cstring with a 
     // message. really confusing function overall.
     void Log(const char* format, ...);
-    //TODO: why have operators redefinition for singletons that doesn't really
-    // have outside objects of themselfs?
-    //Logger& operator<<(const std::string& sMessage);
+
+    Logger& operator<<(const std::string& sMessage);
     static Logger* GetLogger();
 
 private:

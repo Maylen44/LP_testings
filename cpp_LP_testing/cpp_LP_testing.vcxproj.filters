@@ -27,9 +27,9 @@
     <ClCompile Include="..\Subject.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-  </ItemGroup>
-  <ItemGroup>
-    <Xml Include="..\config.xml" />
+    <ClCompile Include="C:\Users\gena_\Downloads\pugixml-master\pugixml-master\src\pugixml.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\IObserver.h">
@@ -53,5 +53,8 @@
   </ItemGroup>
   <ItemGroup>
     <Text Include="Log.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Xml Include="config.xml" />
   </ItemGroup>
 </Project>

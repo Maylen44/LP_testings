@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<settings>
+	<window_resolution x="800" y="600" />
+	<time_rates>
+		<rate value="0.00999999978" />
+		<rate value="0.5" />
+		<rate value="0.75" />
+		<rate value="1" />
+		<rate value="3" />
+		<rate value="7" />
+	</time_rates>
+	<volume>
+		<sfx value="100" />
+		<music value="100" />
+	</volume>
+</settings>

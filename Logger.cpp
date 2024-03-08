@@ -52,10 +52,11 @@ void Logger::Log(const std::string& sMessage)
 }
 
 /*
+
+*/
 Logger& Logger::operator<<(const std::string& sMessage)
 {
     m_Logfile << "\n" << Util::CurrentDateTime() << ":\t";
     m_Logfile << sMessage << "\n";
     return *this;
 }
-*/
