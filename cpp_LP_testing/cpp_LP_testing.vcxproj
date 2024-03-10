@@ -26,12 +26,21 @@
     <ClCompile Include="C:\Users\gena_\Downloads\pugixml-master\pugixml-master\src\pugixml.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="..\A.h" />
+    <ClInclude Include="..\AA.h" />
+    <ClInclude Include="..\AAA.h" />
+    <ClInclude Include="..\D.h" />
+    <ClInclude Include="..\DD.h" />
+    <ClInclude Include="..\E.h" />
     <ClInclude Include="..\IObserver.h" />
     <ClInclude Include="..\ISubject.h" />
     <ClInclude Include="..\Logger.h" />
     <ClInclude Include="..\Observer.h" />
     <ClInclude Include="..\Subject.h" />
     <ClInclude Include="..\Utilities.h" />
+    <ClInclude Include="..\X.h" />
+    <ClInclude Include="..\Y.h" />
+    <ClInclude Include="..\Z.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="Log.txt" />

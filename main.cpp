@@ -1,3 +1,117 @@
+/*
+
+
+3 Base class with children classes from other branches
+
+class A and class DD
+class X and class AA
+
+ok. this one doesnt really work
+
+
+*/
+
+#include "A.h"
+#include "AA.h"
+#include "AAA.h"
+#include "D.h"
+#include "E.h"
+#include "DD.h"
+#include "X.h"
+#include "Z.h"
+#include "Y.h"
+
+int main()
+{
+    A a1(Type_A);
+    //A a2;
+    AA aa1(Type_AA);
+    //AA aa2;
+    AAA aaa1;
+    //AAA aaa2;
+
+    for (auto& object : a1.m_vector)
+    {
+        std::cout << "Object in A Vector has enum index: " << object.first << std::endl;
+    }
+    std::cout << a1.m_vector.size() << std::endl;
+
+    for (auto& object : aa1.m_vector)
+    {
+        std::cout << "Object in AA Vector has enum index: " << object.first << std::endl;
+    }
+    std::cout << aa1.m_vector.size() << std::endl;
+
+    for (auto& object : aaa1.m_vector)
+    {
+        std::cout << "Object in AAA Vector has enum index: " << object.first << std::endl;
+    }
+    std::cout << aaa1.m_vector.size() << std::endl;
+
+/*
+    D d1;
+    //D d2;
+    E e1;
+    //E e2;
+    DD dd1;
+    //DD dd2;
+    X x1;
+    //X x2;
+    Z z1;
+    //Z z2;
+    Y y1;
+    //Y y2;
+
+
+*/
+    return 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 /*
@@ -50,8 +164,9 @@ int main(int argc, char* argv[])
     return 0;
 }
 
-
 */
+
+
 
 /*
 #include "pugixml.hpp"
@@ -90,6 +205,13 @@ int main()
     return 0;
 }
 */
+
+
+
+
+
+
+
 
 
     //Method to write variables to xml
@@ -160,7 +282,7 @@ int main()
 }
 */
 
-    
+    /*
     //method to read from document with variables
     #include "pugixml.hpp"
 #include <SFML/System.hpp>
@@ -191,6 +313,8 @@ int main() {
 
     return 0;
 }
+    */
+    
 
 
 //reading values from xml and writing them in to new variables. important is the syntax of extracting the values from xml 
